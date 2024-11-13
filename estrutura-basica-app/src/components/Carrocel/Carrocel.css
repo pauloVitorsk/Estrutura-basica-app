@@ -1,0 +1,17 @@
+.conteiner_carrocel {
+    display: flex;
+    gap: 1em;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    padding: 1em;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+.card {
+    flex: none; 
+    margin: 0.5em;
+}
+.btn_laterais .btns{
+    background-color: transparent;
+    border: none;
+}

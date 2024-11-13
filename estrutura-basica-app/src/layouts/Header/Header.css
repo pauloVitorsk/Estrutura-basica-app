@@ -1,0 +1,16 @@
+.App-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 15vh;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+}
+.header-coll-1, .header-coll-2, .header-coll-3 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 20px;
+}
